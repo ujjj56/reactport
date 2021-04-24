@@ -3,6 +3,7 @@ import Header from "../Header";
 import Layout from '../Layout';
 import Footer from '../Footer';
 
+
 function Main() {
   return (
     <body>
@@ -13,7 +14,7 @@ function Main() {
             <div className="container">    
                 <div className="main_title">
                     <div className="main_1st">
-                        <img src="img/symbol-1-blue.png" alt="main_symbol_eye" />
+                        <img src="symbol-1-blue.png" alt="main_symbol_eye" />
                         <h1>FRONTEND</h1>
                     </div>
                     <div class="main_2nd">
